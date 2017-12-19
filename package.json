@@ -1,0 +1,22 @@
+{
+    "name": "darcula-theme-for-elixir",
+    "displayName": "Darcula theme for Elixir",
+    "description": "Darcula theme adapted for Elixir language",
+    "version": "0.0.1",
+    "publisher": "Arsen",
+    "engines": {
+        "vscode": "^1.19.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Darcula theme for Elixir",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Darcula theme for Elixir-color-theme.json"
+            }
+        ]
+    }
+}
