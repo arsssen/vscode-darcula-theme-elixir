@@ -10,7 +10,10 @@
 		"editorWhitespace.foreground": "#3b3a32",
 		"statusBar.background": "#303030",
 		"statusBar.noFolderBackground": "#222225",
-		"statusBar.debuggingBackground": "#511f1f"
+		"statusBar.debuggingBackground": "#511f1f",
+		"gitDecoration.modifiedResourceForeground": "#87CEFA",
+		"gitDecoration.untrackedResourceForeground": "#FF6666",
+		"gitDecoration.deletedResourceForeground": "#bbbbbb"
 	},
 	"tokenColors": [
 		{
